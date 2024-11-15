@@ -39,5 +39,5 @@ out/
 src/main/resources/application.properties
 #src/main/java/com/project/ecommerce/client/MailgunClient
 
-# env file
+# env file ##
 application.yml
