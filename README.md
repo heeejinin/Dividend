@@ -8,7 +8,7 @@
 - **Build** : Gradle
 - **JDK** : JDK 17
 - **Database** : H2 Database
-- **Library** : Lombok, Spring-web, SpringSecurity, Logback, JPA, Jsoup, Jjwt, Redis
+- **Library** : Lombok, Spring-web, SpringSecurity, Logback, JPA, Jsoup, Jwt, Redis
 
 ## 💡 API 명세서
 ### ✅ 회원 API
