@@ -51,3 +51,6 @@
 
 ### ✅ 로그 남기기 
 logback을 사용해 Info레벨 이상의 로그를 로그 파일로 남기도록 설정
+
+## 💡 ERD
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c375ef58-d398-49d8-b1b4-825e9f3cc429/5872ce4e-9227-41bd-b73d-5844b04e9c50/image.png)
